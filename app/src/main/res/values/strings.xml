@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Laboratorio Vistas y Grupos</string>
+    <string name="btn_eje_1">Ejercicio 1</string>
+    <string name="btn_eje_2">Ejercicio 2</string>
+    <string name="btn_eje_3">Ejercicio 3</string>
+    <string name="btn_eje_4">Ejercicio 4</string>
+    <string name="btn_eje_42">Eje 4</string>
+    <string name="btn_eje_5">Ejercicio 5</string>
+    <string name="btn_eje_6">Ejercicio 6</string>
+    <string name="btn_eje_7">Ejercicio 7</string>
+    <string name="btn_eje_8">Ejercicio 8</string>
+    <string name="btn_eje_9">Ejercicio 9</string>
+
+    <string name="txt_para">Para:</string>
+    <string name="txt_mensaje">Mensaje:</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <string name="text_on">Prendido</string>
+    <string name="text_off">Apagado</string>
+
+    <string name="txt_switch">Ejemplo Switch</string>
+
+    <string name="lbl_pregunta">Como le gustaría el té?</string>
+    <string name="txt_caliente">Caliente</string>
+    <string name="txt_frio">No Caliente</string>
+    <string name="txt_leche">Leche</string>
+    <string name="txt_azucar">Azucar</string>
+    <string name="txt_limon">Limon</string>
+
+    <string-array name="sp_opciones">
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
+    <string name="txt_chulo">Chulo</string>
+    <string name="txt_error">Error</string>
+
+</resources>
